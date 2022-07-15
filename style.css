@@ -33,3 +33,7 @@ button.reject {
     box-shadow: inset 10px 10px 10px -1px rgba(10, 99, 169, 0.16), inset -10px -10px 10px -1px rgba(255, 255, 255, 0.70);
 
 }
+
+button i{
+    margin-right: 20px;
+}
